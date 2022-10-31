@@ -1,0 +1,458 @@
+
+#im1{
+ width: 7%;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 60px;
+}
+#nbar{
+margin-bottom: 60px;
+}
+.anc{
+  
+padding-right: 12px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+font-size: 12px;
+text-decoration: none;
+color: black;
+}
+.anc:hover{
+    width: 30%;
+background-color: black;
+color: white;
+border-radius: 5px;
+height: 25vh;
+    cursor: pointer;
+    text-align: center;
+}
+#ttle{
+    top: -100px;
+}
+#ttle{
+margin-top: -500px;
+margin-left: 110px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+}
+#d1 video{
+    margin-left: 45px;
+    width: 94%;
+}
+#d1{
+    position: relative;
+}
+#d3{
+    position: absolute;
+}
+#Im{
+    margin-left: 110px;
+background-color: black;
+    color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-width: 10px;
+   
+}
+#Im:hover{
+    background-color: grey;
+    border: 1px solid grey;
+    border-width: 10px;
+}
+#mp{
+    margin-top: 500px;
+    text-align: center;
+    font-family: 'SamsungSharpSans',arial,sans-serif;
+    font-size: 2.63888889vw;
+    padding-bottom: 40px;
+}
+#nb{
+    text-align: center;
+    margin-bottom: 5vh;
+}
+#anc1{
+   
+padding-right: 40px;
+ color: black;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bolder;
+}
+.anc2{
+    padding-right: 40px;
+ color: black;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bolder;
+text-decoration: none;
+}
+#d5{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+#d5 a{
+    text-decoration: none;
+    border-width: 10px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#d6{
+    height: 80vh;
+    background-color: rgb(241, 241, 241);
+    padding-left: 15vh;
+    padding-top: 15vh;
+    padding-right: 15vh;
+    border-radius: 30px;
+}
+#d7{
+    background-color: rgb(241, 241, 241);
+    padding-left: 15vh;
+    padding-right: 15vh;
+    padding-top: 7vh;
+    height: 40vh;
+    border-radius: 30px;
+}
+#d8{
+    background-color: rgb(241, 241, 241);
+    padding-left: 15vh;
+    padding-right: 15vh;
+    padding-top: 7vh;
+    height: 40vh;
+    border-radius: 30px;
+}
+#d9{
+    background-color: rgb(241, 241, 241);
+    height: 38vh;
+    margin-left: 88vh;
+    margin-top: -45vh;
+    padding-left: 15vh;
+    padding-right: 15vh;
+    padding-top: 7vh;
+    border-radius: 30px;
+}
+#d10{
+    background-color: rgb(241, 241, 241);
+    height: 38vh;
+   margin-top: -45vh;
+    align-items: center;
+    padding-left: 15vh;
+    padding-right: 15vh;
+    padding-top: 7vh;
+    border-radius: 30px;
+}
+#dh6,#dh7,#dh8,#dh9,#dh10{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+#dh11{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20vh;
+    font-size: 35px;
+}
+#nb2{
+    text-align: center;
+}
+.anc3{
+    padding-right: 5vh;
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.anc4{
+    padding-right: 5vh;
+     font-weight: bold;
+     font-size: 14px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#d11 #id11{
+width: 45vw;
+margin-left: 50vh;
+margin-top: 5vh;
+}
+#dh12{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+#d12{
+    text-align: center;
+    margin-bottom: 15vh;
+}
+#ad12{
+    color:white;
+    background-color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-width: 10px;
+}
+#ad12:hover{
+    background-color: grey;
+    border: 1px solid grey;
+    border-width: 10px;
+}
+#d13{
+    background-image: url(images/Premier-Frame-banner-1440x810-No-text.webp);
+background-position: top;
+background-size: cover;
+    margin-left: 15vh;    
+    width: 85vw;
+    height:98vh;
+    text-align: center;
+}
+#dh13{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 6vh;
+}
+#nb3{
+    text-align: center;
+}
+.anc5{
+    padding-right: 5vh;
+    font-weight: bold;
+    font-size: 14px;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.anc6{
+    padding-right: 5vh;
+    font-weight: bold;
+    font-size: 14px;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+}
+.anc6:hover{
+    background-color: rgba(228, 228, 228,.3);
+    border: 1px solid rgba(228, 228, 228,.3);
+    border-width: 5px;
+    border-radius: 20px;
+}
+.anc5:hover{
+    background-color: rgba(228, 228, 228,.3);
+    border: 1px solid rgba(228, 228, 228,.3);
+    border-width: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+#h13{
+padding-top: 58vh;
+/* padding-left: 34vw; */
+text-align: center;
+font-size: 50px;
+
+}
+#h13p2{
+    margin-top: -4vh;
+    text-align: center;
+  font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ad13{
+color: white;
+border-radius: 20px;
+
+border: 1px solid black;
+text-decoration: none;
+background-color: black;
+border-width: 10px;
+}
+#ad13:hover{
+    background-color: grey;
+    border: 1px solid grey;
+    border-width: 10px;
+}
+#d14{
+    margin-top: 15vh;
+    background-image: url(images/poster/Desktop_WM_1440-810_new.jpg);
+    background-position: top;
+    background-size: cover;
+    height: 120vh;
+    width: 95vw;
+    margin-left: 20px;
+}
+#dh14{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 8vh;
+}
+#nbd14{
+    text-align: center;
+}
+#ad14{
+color: black;
+padding-right: 7vh;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#apd14{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+color: black;
+text-decoration: none;
+}
+#p1d14{
+    padding-top: 65vh;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p2d14{
+    margin-top: -4vh;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nb8{
+    text-align: center;
+}
+#anc7{
+text-decoration: underline;
+color: black;
+padding-right: 4vh;
+}
+#anc7:hover{
+    text-decoration: underline;
+}
+#anc8{
+    color: white;
+text-decoration: none;
+border: 1px solid black;
+border-width: 10px;
+background-color: black;
+border-radius: 20px;
+}
+#anc8:hover{
+    border: 1px solid grey;
+    background-color: grey;
+    border-width: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+#d15{
+    text-align: center;
+    margin-top: 10vh;
+}
+#ad15{
+    
+    color: black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+}
+#ad15:hover{
+    color: rgb(61, 61, 61);
+    text-decoration: underline; 
+}
+#d16{
+    margin-top: 10vh;
+    display: flex;
+
+}
+#id16{
+    border-radius: 20px;
+}
+
+#p1d16{
+    padding-top: 20vh;
+    font-size: 25px;
+    
+    padding-left: 4vw;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#p2d16{
+    padding-top: 20vh;
+    font-size: 25px;
+    padding-left: 4vw;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+#d17{
+    margin-top: 10vh;
+}
+#d17 input{
+ border: none white;
+ width: 25%;
+ height: 6vh;
+ position: absolute;
+ margin-top: 2vh;
+}
+input:hover{
+    border:1px dotted;
+    border-radius: 15px;
+    text-indent: 5px;
+}
+#ini1{
+    padding-top: 2.5vh;
+position: relative;
+padding-left: 1.5vw;
+}
+#dh17{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#d18{
+    width: 30%;
+    height: 10vh;
+    border: 1px solid black;
+    margin-left: 35vw;
+    border-radius: 20px;
+    margin-bottom: 10vh;
+}
+hr{
+    width: 90%;
+    
+}
+#d19 pre{
+    width: 80%;
+    padding-left: 8vw;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    width: 95%;
+    padding-left: 8vw;
+}
+th{
+    text-align: start;
+}
+table a{
+    text-decoration: none;
+    color: black;
+}
+table a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+#p20{
+    color: grey;
+    padding-top: 3vh;
+    padding-left: 8vw;
+    padding-bottom: 3vh;
+}
+#a21{
+    
+    color:black ;
+    text-decoration: none;
+    padding-left: 7vw;
+    font-weight: bold;
+    font-size: 11px;
+}
+.anc20{
+    font-size: 11px;
+    color: grey;
+    text-decoration: none;
+}
